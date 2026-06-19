@@ -6,6 +6,8 @@ Semantic-aware patch pruning for efficient LVLM inference.
 ```
 V-PRUNE removes redundant visual patches before tokenization.
 ```
+<img width="550" height="294" alt="applsci-15-09463-g001-550" src="https://github.com/user-attachments/assets/658427c4-12fe-40dd-9766-ae4e425a4c41" />
+
 
 ## Features
 
@@ -23,6 +25,8 @@ V-PRUNE removes redundant visual patches before tokenization.
 3. Redundant patch removal
 4. Standard LVLM inference
 ```
+<img width="3314" height="1097" alt="applsci-15-09463-g002" src="https://github.com/user-attachments/assets/487112bc-5224-4482-b625-0e95b4e57ead" />
+
 
 ## Results
 ```
