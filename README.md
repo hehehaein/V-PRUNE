@@ -36,6 +36,14 @@ V-PRUNE removes redundant visual patches before tokenization.
 
 ## Citation
 ```text
-Seo, H.; Choi, Y.S. V-PRUNE: Semantic-Aware Patch Pruning Before Tokenization in Vision–Language Model Inference. Appl. Sci. 2025, 15, 9463. https://doi.org/10.3390/app15179463
-```
+@article{seo2025v,
+  title={V-PRUNE: Semantic-Aware Patch Pruning Before Tokenization in Vision--Language Model Inference},
+  author={Seo, Hyein and Choi, Yong Suk},
+  journal={Applied Sciences},
+  volume={15},
+  number={17},
+  pages={9463},
+  year={2025},
+  publisher={MDPI}
+}```
 
