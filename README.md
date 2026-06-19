@@ -21,15 +21,15 @@ V-PRUNE removes redundant visual patches before tokenization.
 
 
 ## Results
-'''
+```
 - >25% FLOPs reduction
 - >95% accuracy retention
-'''
+```
 
 ## Publication
 
-'''Applied Sciences'''
+```Applied Sciences```
 
 ## Citation
-'''Seo, H.; Choi, Y.S. V-PRUNE: Semantic-Aware Patch Pruning Before Tokenization in Vision–Language Model Inference. Appl. Sci. 2025, 15, 9463. https://doi.org/10.3390/app15179463'''
+```Seo, H.; Choi, Y.S. V-PRUNE: Semantic-Aware Patch Pruning Before Tokenization in Vision–Language Model Inference. Appl. Sci. 2025, 15, 9463. https://doi.org/10.3390/app15179463```
 
